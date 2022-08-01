@@ -1,1 +1,1 @@
-# twitch-points-jukebox
+# Twitch channel point jukebox
